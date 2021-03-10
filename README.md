@@ -1,1 +1,1 @@
-# testcafe-reporter-my-reporter
+test
